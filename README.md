@@ -9,7 +9,7 @@ CathyCmd.exe -f update_Disks_List.txt
 exit
 ```
 
-## update_Disks_List.txt (#DEV DriveLetter:\,AnyNameThatRemindsTheDriver)
+## update_Disks_List.txt (#DEV DriveLetter:\\,AnyNameThatRemindsTheDriver)
 ```
 #DEV D:\,SQLServer
 #DEV F:\,FileBackup
