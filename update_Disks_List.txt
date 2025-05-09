@@ -1,0 +1,5 @@
+#DEV D:\,SQLServer-Hatice
+#DEV F:\,HveI
+#DEV G:\,SQL-YEDEKLER
+#DEV C:\,-C---
+#DEV E:\,DosyaSSD
