@@ -6,4 +6,4 @@ Get-ChildItem -Recurse |
     Select-Object @{Name="FullPath";Expression={$_.FullName.PadRight(100)}}, 
                   @{Name="Name";Expression={$_.Name.PadRight(70)}}, 
                   @{Name="Size";Expression={$_.Length.ToString().PadRight(30)}} |
-    Out-File -Width 200 -FilePath dosyalistesi.txt
+    Out-File -Width 200 -FilePath filelist.txt
